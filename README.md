@@ -1,4 +1,6 @@
 # praktek
+	
+	latihan pertama
 	-membuat perhitungan luas persegi panjang 
 	-mendeklarasikan int p,l,L
 	-menginput nilai panjang
@@ -7,8 +9,18 @@
 	-menampilkan nilai luas 
 	cout << " hasilnya adalah : " << L << endl;
 	
+	Latihan1
 	-membuat bilangan ganjil dan genap
 	-mendeklarasikan int y
 	-memasukan angka y
-	-angka y %2 = = 0
+	-angka x %2 = = 0
 	-menentukan angka genap/ganjil
+	
+	Latihan2
+	-menentukan angka terbesar dan terkecil dari angka yang di input
+	-mendeklarasikan int i,n,max,min,angka
+	-membuat perintah for i untuk menentukan banyak angka yang akan dibandingkan
+	-for (i = 2 ; i < = n ; i + +)
+	-menggunakan perintah if untuk menentukan angka terbesar dan terkecil
+	-if (angka>max) max=angka;
+	-if (angka>min) min=angka;
