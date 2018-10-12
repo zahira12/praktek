@@ -1,6 +1,6 @@
 # praktek
 	
-	latihan pertama
+	Latihan pertama
 	-membuat perhitungan luas persegi panjang 
 	-mendeklarasikan int p,l,L
 	-menginput nilai panjang
@@ -24,3 +24,10 @@
 	-menggunakan perintah if untuk menentukan angka terbesar dan terkecil
 	-if (angka>max) max=angka;
 	-if (angka>min) min=angka;
+
+	Latihan3
+	-membuat perulangan penjumlahan menggunakan for i
+	-mendeklarasikan int i,bil,angka,total=0
+	-memasukan jumlah angka yang akan di input
+	-memasukan angka yang akan di jumlahkan 
+	-menampilkan total penjumlahan.
