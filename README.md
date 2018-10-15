@@ -30,4 +30,4 @@
 	-mendeklarasikan int i,bil,angka,total=0
 	-memasukan jumlah angka yang akan di input
 	-memasukan angka yang akan di jumlahkan 
-	-menampilkan total penjumlahan.
+	-menampilkan total penjumlahan.# praktikum2
