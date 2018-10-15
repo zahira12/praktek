@@ -31,3 +31,4 @@
 	-memasukan jumlah angka yang akan di input
 	-memasukan angka yang akan di jumlahkan 
 	-menampilkan total penjumlahan.# praktikum2
+# praktikum2
